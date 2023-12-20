@@ -4,7 +4,8 @@
 
 ## 사용방법
 
-- release 혹은 repo에서 zip 다운로드하여 압축풀기
+- repo에서 zip파일을 다운로드하여 압축풀기 (`<> Code` 버튼 클릭
+![image](https://github.com/LucetTin5/chzzk-shortcut/assets/75024621/8278a302-56f4-47da-a1fa-a1cfbd6381d7)
 - `chrome://extensions`에서 '압축 해제된 확장 프로그램을 로드합니다'에 들어가서 압축해제된 폴더 등록
 - 치지직 새로고침
 
