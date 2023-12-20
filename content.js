@@ -1,5 +1,6 @@
 document.addEventListener("keydown", (event) => {
-  if (event.target.className !== "live_chatting_input_input__2F3Et") {
+  if (event.target.className !== "live_chatting_input_input__2F3Et" &&
+    event.target.className !== "search_input__tKVgq") {
     if (event.key === "t" || event.key === "T") {
       const viewModeBtn = document.querySelector(
         ".pzp-pc-viewmode-button__icon"
