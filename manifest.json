@@ -6,7 +6,7 @@
   "permissions": ["scripting"],
   "content_scripts": [
     {
-      "matches": ["https://chzzk.naver.com/*"],
+      "matches": ["https://chzzk.naver.com/*", "https://multichzzk.tv/*"],
       "js": ["content.js"]
     }
   ]
