@@ -7,7 +7,8 @@
   "content_scripts": [
     {
       "matches": ["https://chzzk.naver.com/*", "https://multichzzk.tv/*"],
-      "js": ["content.js"]
+      "js": ["content.js"],
+      "all_frames": true
     }
   ]
 }
